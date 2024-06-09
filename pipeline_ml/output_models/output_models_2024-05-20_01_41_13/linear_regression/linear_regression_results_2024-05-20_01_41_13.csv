@@ -1,0 +1,2 @@
+Model,Train MSE,Test MSE,Train MAE,Test MAE,Train RMSE,Test RMSE,Train MAPE,Test MAPE,Train/Test Size,Params
+linear_regression,34.56504237106522,30.63569909655545,3.8157809189388954,3.696914840882987,5.8792042294059845,5.534952492709892,1.2135475850720097,1.2415481263921653,2373/1017,"{'copy_X': True, 'fit_intercept': True, 'n_jobs': None, 'positive': False}"
