@@ -171,4 +171,3 @@ pipeline_ml/data_loader/other_data/*.csv
 # ignore folder driver:
 chromedriver-linux64/chromedriver
 chromedriver-linux64/LICENSE.chromedriver
-pipeline_ml/output_models
