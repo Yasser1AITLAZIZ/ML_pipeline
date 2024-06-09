@@ -1,0 +1,2 @@
+Model,MAE,RMSE,MAPE,Train/Test Size,Params_model
+linear_regression,2.042787154399189,2.5726018267087247,0.5943621814905317,1417/355,"{'copy_X': True, 'fit_intercept': True, 'n_jobs': None, 'positive': False}"
